@@ -1,6 +1,6 @@
 # Corona COVID-19 Project  
 ## Description  
-This github repo contains different approaches towards plotting **COVID-19** data adn prediction of new cases.
+This github repo contains different approaches towards plotting **COVID-19** data and prediction of new cases.
 
 ## Contribution  
 You can contribute to this project. For cloning, 
